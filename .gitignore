@@ -16,3 +16,7 @@
 *.exe
 *.out
 *.app
+
+# Pebble
+/build
+.lock-waf_darwin_build
